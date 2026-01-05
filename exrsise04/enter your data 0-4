@@ -14,4 +14,5 @@ bio = {
     "age": age
 }
 
+
 print(bio["name"] , bio["hometown"] , bio["age"], sep="\n")
