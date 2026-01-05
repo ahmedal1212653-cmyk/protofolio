@@ -1,0 +1,8 @@
+bio =  {                                                       #bio
+    "name": "Ahmed Fadhel",
+    "hometown": "Almalaz",
+    "age": 23
+
+}
+
+print(bio["name"], bio["hometown"], bio["age"], sep="\n")
