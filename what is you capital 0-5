@@ -1,0 +1,5 @@
+answer = input("What is the capital of sudan?")             #qution your capital
+if answer.lower() == "khartuom":                              #answer
+    print("Correct answer!")
+else:
+    print("Wrong answer!")
